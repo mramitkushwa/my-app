@@ -13,6 +13,7 @@ function App() {
         <Route path="/project" element={<Project />}  />
         <Route path="/about" element={<About />} />
         <Route path="/contact" element={<Contact />} />
+        {/* Akash ki ufm laggi gyi */}
       </Routes>
     </>
   );
